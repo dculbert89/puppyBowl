@@ -1,0 +1,27 @@
+* {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+#player-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    padding: .5rem;  
+}
+
+.button{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    text-align: center;
+}

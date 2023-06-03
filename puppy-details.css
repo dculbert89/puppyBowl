@@ -1,0 +1,25 @@
+*{
+    background-color: aqua;
+}
+
+#player-name-container{
+    text-align: center;
+}
+
+#player-details-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+
+#image-details-container {
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid black; */
+}
+
+.puppyImage{
+    height: 50vh;
+    border: 5px solid black;
+    }
